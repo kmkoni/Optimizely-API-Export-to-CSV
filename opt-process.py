@@ -1,3 +1,5 @@
+# Convert Optimizely API output to CSV 1.0
+
 import sys,os,shutil,json,csv
 
 print("Converting Optimizely API output to CSV...")
