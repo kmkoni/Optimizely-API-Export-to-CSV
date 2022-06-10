@@ -1,0 +1,19 @@
+body {
+  font-family: sans-serif;
+}
+
+#inputfile {
+  font-size: 14px;
+}
+
+#convert {
+  font-size: 14px;
+  background: blue;
+  color: white;
+  padding: 8px 16px;
+  border: none;
+  margin-top: 16px;
+  cursor: pointer;
+  border: 1px solid darkblue;
+
+}
